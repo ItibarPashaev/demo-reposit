@@ -6,3 +6,8 @@ description!
 ## Subheader
 
 Watch tutorial on Youtube.
+
+##Local devolepment
+
+1.Open index.html in your browser.
+
